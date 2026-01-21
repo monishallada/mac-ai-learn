@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Mac
+.DS_Store
+
+# Models / artifacts
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# Logs
+logs/
+wandb/
+mlruns/
